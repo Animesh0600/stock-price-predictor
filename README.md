@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts **short-term stock movement** (Up or Down) for any Indian stock using Technical Analysis and Random Forest algorithm.
  
-<img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/a9d64d04-6f0d-4f33-a568-20f816397f89" /> <img width="1909" height="906" alt="image" src="https://github.com/user-attachments/assets/bb193178-5d47-4bf6-9740-705c265f7854" /> <img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/8344d3ae-fb6b-425b-a29a-ba241f2c86e6" />
+<img width="1909" height="906" alt="image" src="https://github.com/user-attachments/assets/bb193178-5d47-4bf6-9740-705c265f7854" /> <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/a9d64d04-6f0d-4f33-a568-20f816397f89" /> <img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/8344d3ae-fb6b-425b-a29a-ba241f2c86e6" />
 
 
 
